@@ -3,7 +3,7 @@ Script em Python para executar a parte da estatística do Laboratório de Mapeam
 
 Para utilizar este script certifique-se de ter executado as seguinte etapas:
 
-1 - Faça a limpesa dos seus dados utilizando a metodologia do laboratório executando todas as etapas até a parte onde o EEGLab exporta os arquivos TXTs.
+1 - Faça a limpeza dos seus dados utilizando a metodologia do laboratório executando todas as etapas até a parte onde o EEGLab exporta os arquivos TXTs.
 
 2 - Separe seus arquivos TXTs em pastas de acordo com seu modelo experimental.
 
