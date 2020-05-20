@@ -9,6 +9,6 @@ Para utilizar este script certifique-se de ter executado as seguinte etapas:
 
 3 - Faça o download do Script "EEG_Stats.ipynb" aqui pelo GitHub e salve o arquivo em um pasta no seu Google Drive.
 
-4 - Abra o arquivo utilizando o Google Colaboratory. Para isso vá no seu Google Drive, clique com o botão direito no arquivo "EEG_Stats.ipynb" e selecione abrir com Google Colaboratory. Caso o Google Colaboratory não esteja disponível, clique em Conectar mais apps e seguia as instruçoes do Google. Você também pode acessar o Google Colaboratory diretamente da url: https://colab.research.google.com/
+4 - Abra o arquivo utilizando o Google Colaboratory. Para isso vá no seu Google Drive, clique com o botão direito no arquivo "EEG_Stats.ipynb" e selecione abrir com Google Colaboratory. Caso o Google Colaboratory não esteja disponível, clique em Conectar mais apps e siga as instruções do Google. Você também pode acessar o Google Colaboratory diretamente da url: https://colab.research.google.com/
 
 5 - Caso utilize este script não se esqueça de dar crédito ao Laboratório em seu trabalho.
