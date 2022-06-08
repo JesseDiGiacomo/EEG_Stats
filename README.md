@@ -1,4 +1,22 @@
 # EEG_Stats
+EN:
+Python script to run the statistics part of the Brain Mapping and Sensorimotor Integration Laboratory at EEFD / UFRJ
+
+To use this script, make sure you have performed the following steps:
+
+1 - Clean your data using the laboratory methodology, performing all the steps until the part where EEGLab exports the TXTs files.
+
+2 - Separate your TXT files into folders according to your experimental model.
+
+3 - Download the "EEG_Stats.ipynb" Script from here on GitHub and save the file in a folder on your Google Drive.
+
+4 - Open the file using Google Colaboratory. To do this, go to your Google Drive, right-click on the file "EEG_Stats.ipynb" and select open with Google Colaboratory. If Google Colaboratory isn't available, click Connect more apps and follow Google's instructions. You can also access Google Colaboratory directly from the URL: https://colab.research.google.com/
+
+5 - If you use this script, don't forget to give credit to the Laboratory for its work.
+
+
+
+PT-BR:
 Script em Python para executar a parte da estatística do Laboratório de Mapeamento Cerebral e Integração Sensoriomotora da EEFD / UFRJ
 
 Para utilizar este script certifique-se de ter executado as seguinte etapas:
