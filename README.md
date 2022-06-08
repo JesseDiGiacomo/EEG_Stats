@@ -1,6 +1,7 @@
 # EEG_Stats
 EN:
-Python script to run the statistics part of the Brain Mapping and Sensorimotor Integration Laboratory at EEFD / UFRJ
+ 
+This Python script is part of a Doctor's Degree. It does the statistics part of the Brain Mapping and Sensorimotor Integration Laboratory (EEFD / UFRJ) methodology.
 
 To use this script, make sure you have performed the following steps:
 
@@ -13,11 +14,12 @@ To use this script, make sure you have performed the following steps:
 4 - Open the file using Google Colaboratory. To do this, go to your Google Drive, right-click on the file "EEG_Stats.ipynb" and select open with Google Colaboratory. If Google Colaboratory isn't available, click Connect more apps and follow Google's instructions. You can also access Google Colaboratory directly from the URL: https://colab.research.google.com/
 
 5 - If you use this script, don't forget to give credit to the Laboratory for its work.
-
-
-
+ 
+===//===
+ 
 PT-BR:
-Script em Python para executar a parte da estatística do Laboratório de Mapeamento Cerebral e Integração Sensoriomotora da EEFD / UFRJ
+ 
+Script em Python para executar a parte da estatística da metodologia do Laboratório de Mapeamento Cerebral e Integração Sensoriomotora da EEFD / UFRJ.
 
 Para utilizar este script certifique-se de ter executado as seguinte etapas:
 
